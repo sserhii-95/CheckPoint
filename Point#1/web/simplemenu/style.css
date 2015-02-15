@@ -1,0 +1,29 @@
+body {
+    font-family: arial;
+}
+
+h1 {
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.menu-body {
+    border-radius: 17px;
+    background: linear-gradient(to bottom, #f9f9f9 0%, #fefefe 100%);
+    border: 2px solid #ebebeb;
+    padding: 35px 35px;
+    width: 150px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+li {
+    margin-bottom: 7px;
+}
+
+a {
+    color: #00a9ff;
+}

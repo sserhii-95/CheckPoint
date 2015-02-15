@@ -1,0 +1,37 @@
+
+h1 {
+    color: #4f4f4f;
+    font-family: "tahoma";
+    font-size: 26pt;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.text {
+    color: #8f8e8e;
+    padding: 10px 100px;
+    text-align: center;
+}
+
+.author {
+    color: #c7c6c6;
+    text-align: center;
+}
+
+.row {
+    margin: 0 auto;
+    width: 60px
+}
+
+.c {
+    display: inline-block;
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+    background-color: #c7c6c6;
+    margin: 0px 5%;
+}
+
+#selected {
+    background-color: #747373;
+}

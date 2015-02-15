@@ -1,0 +1,58 @@
+body {
+    font-family: Arial;
+}
+
+table {
+    border-collapse: collapse;
+    color: #898989;
+}
+
+td {
+    border-top: 10px solid white;
+    padding: 5px 2px;
+}
+
+.head {
+    background-color: #adb384;
+    color: #fff;
+}
+
+.id {
+    width: 13%;
+    text-align: center;
+}
+
+.desc {
+    width: 55%;
+    position: relative;
+}
+
+.number {
+    width: 18%;
+}
+
+.time {
+    width: 15%;
+    text-align: center;
+}
+
+#selected {
+    background-color: #adb384;
+    color: #fff;
+}
+
+.n::after {
+    content: "N";
+    border-radius: 4px;
+    font-size: 9px;
+    width: 10px;
+    height: 9px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #ff8235;
+    margin: 8px 10px;
+    padding: 2px 3px;
+    position: absolute;
+    bottom: 0px;
+    top : 0px;
+}
